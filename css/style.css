@@ -37,6 +37,7 @@ h3 {
   width: 100%;
 }
 
-div.background {
+.background {
   background-color: pink;
 }
+/* ADDED MISSING BRACKETS AND : ; */
